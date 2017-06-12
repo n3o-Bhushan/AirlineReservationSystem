@@ -5,6 +5,7 @@ A REST API to implement a simple airline reservation system through CRUD. The ap
 In this lab, you build a REST API to implement a simple airline reservation system through create, get, update, and delete. 
  
 Please design your data model to hold information for the airline reservation system. We define the following requirements and constraints:
+
 -Each passenger can make one or more reservations. Time overlap is not allowed among any of his reservation.
 
 -Each reservation may consist of one or more flights.
